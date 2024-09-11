@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">- Project Quebic: A 2D Metroidvania game (add brief description)<br>- Lamalia Minecraft Server: Managing and developing for a Minecraft server</p>
+<p align="left">- Project Quebic: A 2D Metroidvania game <br>- Lamalia Minecraft Server: Managing and developing for a Minecraft server</p>
 
 ###
 
