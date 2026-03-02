@@ -1,50 +1,21 @@
-<h1 align="center">Hi there, I'm Puree Pangma 👋</h1>
+# Hey, I'm Puree
 
-###
+Game developer and server engineer from Thailand.
+Recently graduated from Bangkok University (Game Development).
 
-<h3 align="center">🎮 Game Developer | 💻 Software Engineer | 🖥️ Server Administrator</h3>
+## What I do
 
-###
+- **Game development** — Unity/C# prototyping and gameplay systems
+- **Minecraft server platform** — Custom plugin ecosystem with 20+ plugins, GitOps deployment, and tooling
+- **Automation & tooling** — Building personal tools and workflow integrations
 
-<h3 align="left">About Me</h3>
+## Tech
 
-###
+**Primary:** C#, Unity
+**Also work with:** Java, TypeScript, Python
+**Infra:** Linux (Arch), Docker, Coolify
 
-<p align="left">I'm a 22-year-old game development enthusiast from Thailand, currently studying Game Development at Bangkok University. My passion lies in creating immersive gaming experiences and managing exciting projects in the game development world.</p>
+## Links
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusakiDev" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<h3 align="left">🔭 I'm currently working on:</h3>
-
-###
-
-<p align="left">- Project Quebic: A 2D Metroidvania game <br>- Lamalia Minecraft Server: Managing and developing for a Minecraft server</p>
-
-###
-
-<h3 align="left">💼 Skills:</h3>
-
-###
-
-<p align="left">- Languages: C#, Python, Java, Javascript, Mysql<br>- Game Engines: Unity<br>- Server Management: Pterodactyl<br>- Project Management: Notion, Youtrack, Codecks<br>- Version Control: GitHub, GitLab</p>
-
-###
-
-<h3 align="left">📫 How to reach me:</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/puree-pangma/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="MAILTO: puree.marimjie@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-puree--pangma-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/puree-pangma/)
+[![Email](https://img.shields.io/badge/Email-puree.marimjie@gmail.com-EA4335?style=flat&logo=gmail)](mailto:puree.marimjie@gmail.com)
