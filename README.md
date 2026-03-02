@@ -11,11 +11,11 @@ Recently graduated from Bangkok University (Game Development).
 
 ## Tech
 
-**Primary:** C#, Unity
-**Also work with:** Java, TypeScript, Python
+**Primary:** C#, Unity  
+**Also work with:** Java, TypeScript, Python  
 **Infra:** Linux (Arch), Docker, Coolify
 
 ## Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-puree--pangma-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/puree-pangma/)
-[![Email](https://img.shields.io/badge/Email-puree.marimjie@gmail.com-EA4335?style=flat&logo=gmail)](mailto:puree.marimjie@gmail.com)
+[\![LinkedIn](https://img.shields.io/badge/LinkedIn-puree--pangma-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/puree-pangma/)
+[\![Email](https://img.shields.io/badge/Email-puree.marimjie@gmail.com-EA4335?style=flat&logo=gmail)](mailto:puree.marimjie@gmail.com)
