@@ -15,6 +15,12 @@ Recently graduated from Bangkok University (Game Development).
 **Also work with:** Java, TypeScript, Python  
 **Infra:** Linux (Arch), Docker, Coolify
 
+## Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YusakiDev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="stats" />
+</div>
+
 ## Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-puree--pangma-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/puree-pangma/)
