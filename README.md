@@ -18,7 +18,7 @@ Recently graduated from Bangkok University (Game Development).
 ## Stats
 
 <div align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/YusakiDev?cardType=level-alternate&theme=github-dark&preferLogin=true&Indirect%20Stars=0&Direct%20Stars=0" height="150" alt="stats" />
+  <a href="https://git.io/awesome-stats-card"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/YusakiDev?cardType=level&theme=github-dark&preferLogin=false&Points.IndirectStars=0" alt="My Awesome Stats" /></a>
 </div>
 
 ## Links
